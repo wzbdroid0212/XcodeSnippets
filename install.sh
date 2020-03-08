@@ -1,1 +1,1 @@
-cp ./*.codesnippet ~/Library/Developer/Xcoce/UserData/CodeSnippets
+cp ./*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets
